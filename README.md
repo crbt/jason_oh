@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 
 ---
 
+## Tech Stack presentation - https://docs.google.com/presentation/d/1zJfE72UG7mC3K75z4EzuYcoK6WIrXRJUYC0O_K8FQQ8/edit#slide=id.g33f39a6725c_0_388
+
 ## 🔧 Tech Stack & Expertise
 ### 💻 Languages
 - **Java**, **Node.js**, **Golang**, **javascript**, **SQL**
